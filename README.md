@@ -5,7 +5,7 @@
     <p style="color:#C03028">SCSS EEVEE</p>
 </h1>
 
-![GIF Screenshot](eevee.gif)
+![GIF Screenshot](./src/images/eevee.gif)
 
 ## 🧪 Tecnologias
 
